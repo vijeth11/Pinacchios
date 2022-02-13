@@ -80,5 +80,5 @@ Web Programming with Python and JavaScript
     
     https://www.toptal.com/developers/gitignore
 
-### Link
-    http://pizzadjangoapp.herokuapp.com/menu-order/
+### Demo Link
+http://pizzadjangoapp.herokuapp.com/menu-order/
